@@ -8,9 +8,14 @@ Database:
 https://symfony.com/doc/current/doctrine.html
 
 
+<br/><br/><br/>
+
 
 Routes:
-/
-/lucky/number
-/product
-/product/{id}
+
+- /lucky/number
+
+- /product
+
+- /product/{id}
+
