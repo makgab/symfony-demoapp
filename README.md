@@ -1,6 +1,6 @@
 # symfony-demoapp
 
-A simple demo app for Smfony framework
+A simple demo app for Symfony framework
 
 https://symfony.com/doc/current/setup.html#creating-symfony-applications
 
